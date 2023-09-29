@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Messages [
+	<!ELEMENT Messages (message+, mood)>
+    <!ELEMENT message (#PCDATA)>
+    <!ELEMENT mood (#PCDATA)>
+	]>
+
+
+<Messages>
+    <mood>Happy</mood>
+    <message>Feeling joyful today!</message>
+    <message>Life is beautiful.</message>
+    <message>Just got some great news!</message>
+    <message>Smiles all around!</message>
+    <message>Enjoying the sunshine.</message>
+    <message>Everything is going well.</message>
+    <message>Grateful for this moment.</message>
+    <message>Happy thoughts all day!</message>
+    <message>Laughter is the best medicine.</message>
+</Messages>
